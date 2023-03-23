@@ -1,4 +1,4 @@
-This is the code repository for Structured Logistic Tensor Regression
+# This is the code repository for Structured Logistic Tensor Regression
 
-# Author
-# Yufeng
+## Authors
+* Yufeng Zhang
