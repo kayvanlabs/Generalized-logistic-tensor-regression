@@ -1,6 +1,6 @@
 # p_LTR and s_LTR
 
-The algorithm is for building logistic tensor regression with structure information
+The algorithm is for building standard and personalized logistic tensor regression with structure information.
 
 ## Author: 
 
@@ -18,7 +18,7 @@ Yufeng Zhang
 ## Table of Contents
 
 - Introduction
-- Installation of libsvm
+- Installation of required packages
 - Usage
 
 
