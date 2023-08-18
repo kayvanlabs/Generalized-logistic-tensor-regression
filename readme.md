@@ -9,7 +9,7 @@ Yufeng Zhang
 ## Note:
 
 ### proposed framework
-![network](https://github.com/yufengzhang1995/EvolveFNN/blob/main/network.png)
+![network](https://github.com/yufengzhang1995/Logistic_tensor_regression/blob/main/algorithm.png)
 
 
 
